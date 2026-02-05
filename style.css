@@ -277,22 +277,18 @@ align-items: center;
 }
 
 .primary-btn {
-  color: black;
-  background-color: white;
-}
-
-.primary-btn:hover {
-  background-color: #f2f2f2;
-}
-
-.secondary-btn {
-  border: 2px solid #ffffff;
-  color: #ffffff;
-}
-
-.secondary-btn:hover {
-  background-color: #ffffff;
-  color: #27ae60;
+  color:white;
+  background-color: green;
+} 
+.footer-primary-btn{
+    color: black;
+    background-color: white; 
+    display: inline-block;
+ text-decoration: none;
+ 
+ padding:1rem 2rem; 
+ border-radius: 7px; 
+ 
 }
 
 /* Footer Section */
